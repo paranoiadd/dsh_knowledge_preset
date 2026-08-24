@@ -1,0 +1,2 @@
+name: 个人知识库
+description: 基于 standard 的完整编码代理，内置学习问答自动沉淀工具（save_knowledge）：学习问答被提炼为结构化知识卡片，按主题自动分类，写入坚果云 WebDAV（跨设备同步）或本地工作区。
