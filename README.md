@@ -26,7 +26,7 @@
 2. 克隆本仓库到 preset 目录（PowerShell）：
 
    ```powershell
-   git clone <仓库地址> "$env:USERPROFILE\.dsh\.agent-presets\knowledge"
+   git clone https://github.com/paranoiadd/dsh_knowledge_preser.git "$env:USERPROFILE\.dsh\.agent-presets\knowledge"
    ```
 
    > 也可以把本目录复制到 `~/.dsh/.agent-presets/knowledge`。
